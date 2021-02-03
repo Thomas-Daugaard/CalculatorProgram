@@ -101,5 +101,11 @@ namespace CalculatorProgram.Test.Unit
         }
 
         // End tests of Power() //
+
+        [Test]
+        public void TestOfGitRep()
+        {
+
+        }
     }
 }
